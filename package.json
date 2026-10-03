@@ -1,0 +1,21 @@
+{
+  "name": "stock-price-api",
+  "version": "1.0.0",
+  "description": "Real-time stock quotes via API — price, change, volume, exchange. One GET call.",
+  "type": "module",
+  "main": "index.js",
+  "exports": "./index.js",
+  "keywords": [
+    "stock",
+    "stocks",
+    "quote",
+    "finance",
+    "market-data",
+    "ticker",
+    "api"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
